@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "43691201582",
+    "project_id": "e-booktique",
+    "storage_bucket": "e-booktique.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43691201582:android:73e510c681474f6bf1bbbf",
+        "android_client_info": {
+          "package_name": "com.example.e_booktique"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43691201582-bn0f60kqsea35tks580pk18q6p4fouib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_booktique",
+            "certificate_hash": "ba2a57f6533a16c7488e7690e487cc4dbea6caa1"
+          }
+        },
+        {
+          "client_id": "43691201582-rbacajagod0k5go6vu1df5m9bcfheiqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDec9ObBEhtCkPeJj0yJ3lRsSQPctJ5fY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43691201582-rbacajagod0k5go6vu1df5m9bcfheiqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

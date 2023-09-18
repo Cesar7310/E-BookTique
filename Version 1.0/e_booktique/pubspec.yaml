@@ -1,0 +1,37 @@
+name: e_booktique
+description: A new Flutter project.
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.0.6 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.13.1
+  firebase_auth: ^4.6.2
+  flutter_animate: any
+  font_awesome_flutter: any
+  blurrycontainer: any
+  google_sign_in: ^6.1.4
+  provider: ^6.0.5
+  flutter_slidable: ^3.0.0
+  gap: ^3.0.1
+  flutter_staggered_grid_view: ^0.7.0
+  flutter_riverpod: ^2.4.0
+  flutter_rating_bar: ^4.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/
+    - assets/misterio_books/
+    - assets/romance_books/
